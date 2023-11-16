@@ -4,11 +4,11 @@
 </div>
 <br/><br/>
 
-# 🤖 PMU-B Personal AI 
+# 🤖 PMU-B Personal AI
+
 > 960 - ภาณุปรัชญ์ สุวรรณจันทร์
 
 <br/>
-
 
 <details>
  <summary>
@@ -16,24 +16,40 @@
  </summary>
 <ol>
   <li>
-    <a href="#xpore-an-ai-powered-app-for-bioinformaticians">xPore: An AI-Powered App for Bioinformaticians</a>
+    <a href="#xpore">xPore: An AI-Powered App for Bioinformaticians</a>
     <ul>
       <li>
-        <a href="#twobfus">twobfus</a>
+        <a href="#">Resources</a>
         <ul>
-          <li><a href="#parameters">Parameters</a></li>
+          <li><a href="#blahblah">blahblah</a></li>
         </ul>
+      </li>
+        <li>
+        <a href="#">Notes</a>
       </li>
     </ul>
   </li>
-  <li><a href="#learning-from-biosignal">Learning from Biosignal</a></li>
+  <li><a href="#biosignal">Learning from Biosignal</a><ul>
+      <li>
+        <a href="#">Resources</a>
+        <ul>
+          <li><a href="#blahblah">blahblah</a></li>
+        </ul>
+      </li>
+        <li>
+        <a href="#">Notes</a>
+      </li>
+    </ul></li>
 </ol>
 </details>
 
-## xPore: An AI-Powered App for Bioinformaticians 🧬
+<h2 id="xpore">
+    xPore: An AI-Powered App for Bioinformaticians 🧬
+</h2>
 test
 
 ### Resource
+
 <ul>
   <li>blahblah</li>
   <li>blahblah
@@ -49,11 +65,16 @@ test
 ```plaintext
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean pulvinar nulla sapien, ut vehicula justo sollicitudin nec.
 ```
-<a href="#learning-from-biosignal">Jump to xPore Section</a> | <a href="#learning-from-biosignal">Jump to Biosignal</a>
-## 🧠 Learning from Biosignal
+
+<a href="#xpore">Jump to xPore Section</a> | <a href="#biosignal">Jump to Biosignal</a>
+
+<h2 id="biosignal">
+    🧠 Learning from Biosignal
+</h2>
 test
 
 ### Resource
+
 <ul>
   <li>blahblah</li>
   <li>blahblah
