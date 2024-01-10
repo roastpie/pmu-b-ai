@@ -12,7 +12,9 @@
 ## 🎞️ Video Presentation
 <div align="center">
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0yx6dLPDcyc?si=9PXRBMcrugHQQAEj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<a href="https://www.youtube.com/watch?v=0yx6dLPDcyc">
+         <img src="https://img.youtube.com/vi/0yx6dLPDcyc/0.jpg" style="width:100%;">
+</a>
 
 
 </div>
