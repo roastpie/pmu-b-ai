@@ -37,7 +37,8 @@
 </ul>
 
 ### Notes
-[<img src="https://img.shields.io/badge/view%20in%20notion-grey?style=for-the-badge&logo=notion" />](https://xinnypie.notion.site/Mental-disorder-detection-from-social-media-data-25897b7a6407476aadd2dc25835beee1?pvs=4)
+[<img src="https://img.shields.io/badge/view%20in%20notion-grey?style=for-the-badge&logo=notion" />](https://xinnypie.notion.site/Mental-disorder-detection-from-social-media-data-25897b7a6407476aadd2dc25835beee1?pvs=4) [<img src="https://img.shields.io/badge/view%20in%20pdf-grey?style=for-the-badge&logo=github" />](./lecture/file/mynote.pdf)
+
 
 
 ```plaintext
