@@ -5,27 +5,43 @@
 <br/><br/>
 
 # 🤖 PMU-B Personal AI
-> 960 - ภาณุปรัชญ์ สุวรรณจันทร์
-> 
-<br/><br/>
-# 📅 Calendar
 
-    
+> 960 - ภาณุปรัชญ์ สุวรรณจันทร์
+>
+> <br/><br/>
+
+
+## 📅 Calendar
+
 <div align="center">
 
-| Task        | Deadline         | Meeting Date    | Note               | Description                                      |
-|-------------|------------------|-----------------|--------------------|--------------------------------------------------|
-| Meeting 1    | -                | Nov 15, 2023| Preparatory       | การใช้ GitHub สำหรับจัดทำ Personal AI Portfolio และส่ง Assignments       |
-| Meeting 2    | -                | Dec 4, 2023 | Follow-up         | xPore: An AI-Powered App for Bioinformaticians            |
-| Meeting 3    | -                | Dec 6, 2023 | Follow-up         | Learning from Biosignal            |
-| Meeting 4    | -                | Dec 8, 2023 | Follow-up         | AI for detecting code plagiarism            |
-| Meeting 5    | -                | Dec 14, 2023 | Follow-up         | BiTNet: AI for diagnosing ultrasound image            |
-| Meeting 6    | -                | Dec 19, 2023 | Follow-up         | Mental disorder detection from social media data            |
-| Meeting 7    | -                | Dec 21, 2023 | Follow-up         | AI for arresting criminals            |
-
+| Task        | Deadline         | Meeting Date    | Note               | Description                                      |  Video  |
+| --------- | ----------- | ------------ | ----------- | ------------------------------------------------------------------ |-------------- |
+|  <sub>Meeting 1</sub> | -           | <sub>Nov 15, 2023</sub> | <sub>reparatory</sub> | <sub>การใช้ GitHub สำหรับจัดทำ Personal AI Portfolio และส่ง Assignments</sub> | [<img width="18" src="https://cdn-icons-png.flaticon.com/256/1384/1384060.png"/>](https://www.google.com/) |
+|  <sub>Meeting 2</sub> | -           | <sub>Dec 4, 2023</sub>  | <sub>Follow-up</sub>   | <sub>xPore: An AI-Powered App for Bioinformaticians </sub>                    | [<img width="18" src="https://cdn-icons-png.flaticon.com/256/1384/1384060.png"/>](https://www.google.com/) |
+|  <sub>Meeting 3</sub> | -           | <sub>Dec 6, 2023</sub>  | <sub>Follow-up</sub>   | <sub>Learning from Biosignal     </sub>                                       | [<img width="18" src="https://cdn-icons-png.flaticon.com/256/1384/1384060.png"/>](https://www.google.com/) |
+|  <sub>Meeting 4</sub> | -           | <sub>Dec 8, 2023</sub>  | <sub>Follow-up</sub>   | <sub>AI for detecting code plagiarism  </sub>                                 | [<img width="18" src="https://cdn-icons-png.flaticon.com/256/1384/1384060.png"/>](https://www.google.com/) |
+|  <sub>Meeting 5</sub> | -           | <sub>Dec 14, 2023</sub> | <sub>Follow-up</sub>   | <sub>BiTNet: AI for diagnosing ultrasound image  </sub>                       | [<img width="18" src="https://cdn-icons-png.flaticon.com/256/1384/1384060.png"/>](https://www.google.com/) |
+|  <sub>Meeting 6</sub> | -           | <sub>Dec 19, 2023</sub> | <sub>Follow-up</sub>   | <sub>Mental disorder detection from social media data  </sub>                 | [<img width="18" src="https://cdn-icons-png.flaticon.com/256/1384/1384060.png"/>](https://www.google.com/) |
+|  <sub>Meeting 7</sub> | -           | <sub>Dec 21, 2023</sub> | <sub>Follow-up</sub>   | <sub>AI for arresting criminals   </sub>                                      | [<img width="18" src="https://cdn-icons-png.flaticon.com/256/1384/1384060.png"/>](https://www.google.com/) |
+|  <sub>Assignment</sub> | <sub>Jan 10, 2024</sub> | -            | -           |  <sub>Submit Assignment</sub>  | - |
 
 </div>
+<br/>
 
+## 📚 Workshop
+
+<div align="center">
+
+| Name                                                      | Note & Assignment                                              | Accomplishment                              | Link                                                                                 | Q&A Session                                                                                 |
+| --------------------------------------------------------- | ----------------------------------------------------------------- | ------------------------------------------- | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------- |
+| <sub>xPore: An AI-Powered App for Bioinformaticians</sub> | [<sub>👀 View</sub>](https://github.com/xinnypie/pmb-u-ai/tree/main) | [<sub>🏅 Certificate</sub>](https://google.com) | [<img width="18" src="https://powerclass.org/wp-content/uploads/2022/01/cropped-favicon-02-180x180.png"/> Powerclass](https://example.com/powerclass-link) | [<img width="18" src="https://cdn-icons-png.flaticon.com/256/1384/1384060.png"/> Youtube](https://www.google.com/) |
+| <sub>TinySleepNet: Learning from Biosignal</sub> | [<sub>👀 View</sub>](https://github.com/xinnypie/pmb-u-ai/tree/main) | [<sub>🏅 Certificate</sub>](https://google.com) | [<img width="18" src="https://powerclass.org/wp-content/uploads/2022/01/cropped-favicon-02-180x180.png"/> Powerclass](https://example.com/powerclass-link) | [<img width="18" src="https://cdn-icons-png.flaticon.com/256/1384/1384060.png"/> Youtube](https://www.google.com/) |
+| <sub>CodeCloneDetection: AI for detecting code plagiarism</sub> | [<sub>👀 View</sub>](https://github.com/xinnypie/pmb-u-ai/tree/main) | [<sub>🏅 Certificate</sub>](https://google.com) | [<img width="18" src="https://powerclass.org/wp-content/uploads/2022/01/cropped-favicon-02-180x180.png"/> Powerclass](https://example.com/powerclass-link) | [<img width="18" src="https://cdn-icons-png.flaticon.com/256/1384/1384060.png"/> Youtube](https://www.google.com/) |
+| <sub>BiTNet: AI for diagnosing ultrasound image</sub> | [<sub>👀 View</sub>](https://github.com/xinnypie/pmb-u-ai/tree/main) | [<sub>🏅 Certificate</sub>](https://google.com) | [<img width="18" src="https://powerclass.org/wp-content/uploads/2022/01/cropped-favicon-02-180x180.png"/> Powerclass](https://example.com/powerclass-link) | [<img width="18" src="https://cdn-icons-png.flaticon.com/256/1384/1384060.png"/> Youtube](https://www.google.com/) |
+| <sub>Mental disorder detection from social media data</sub> | [<sub>👀 View</sub>](https://github.com/xinnypie/pmb-u-ai/tree/main) | [<sub>🏅 Certificate</sub>](https://google.com) | [<img width="18" src="https://powerclass.org/wp-content/uploads/2022/01/cropped-favicon-02-180x180.png"/> Powerclass](https://example.com/powerclass-link) | [<img width="18" src="https://cdn-icons-png.flaticon.com/256/1384/1384060.png"/> Youtube](https://www.google.com/) |
+| <sub>AI for arresting criminals </sub> | [<sub>👀 View</sub>](https://github.com/xinnypie/pmb-u-ai/tree/main) | [<sub>🏅 Certificate</sub>](https://google.com) | [<img width="18" src="https://powerclass.org/wp-content/uploads/2022/01/cropped-favicon-02-180x180.png"/> Powerclass](https://example.com/powerclass-link) | [<img width="18" src="https://cdn-icons-png.flaticon.com/256/1384/1384060.png"/> Youtube](https://www.google.com/) |
+</div>
 <br/><br/>
 
 ---
