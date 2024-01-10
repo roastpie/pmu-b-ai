@@ -113,6 +113,5 @@ useful for subsequent tasks such as classification
 
 ### Assignment
 
-<a target="_blank" href="https://colab.research.google.com/github/xinnypie/pmb-u-ai/blob/master/1d-cnn-for-brain-signal/assignment/src/gaussian-mixture-model.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
+[<img src="https://img.shields.io/badge/view%20in%20github-grey?style=for-the-badge&logo=github" />](./assignment/src/brain-signal.py)
+
