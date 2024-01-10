@@ -24,8 +24,8 @@
   <details>
     <summary>Notes</summary>
     <ul>
-      <li>blahblah</li>
-      <li>blahblah</li>
+      <li><a href="data-collection">Data Collection</a></li>
+      <li><a href="#data-exploration-preprocessing">Data Exploration & Preprocessing</a></li>
     </ul>
   </details>
   </li>
@@ -40,10 +40,39 @@
 [<img src="https://img.shields.io/badge/view%20in%20notion-grey?style=for-the-badge&logo=notion" />](https://xinnypie.notion.site/Mental-disorder-detection-from-social-media-data-25897b7a6407476aadd2dc25835beee1?pvs=4) [<img src="https://img.shields.io/badge/view%20in%20pdf-grey?style=for-the-badge&logo=github" />](./lecture/file/mynote.pdf)
 
 
+### Data Collection
 
-```plaintext
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean pulvinar nulla sapien, ut vehicula justo sollicitudin nec.
-```
+**Direct Participant Data Collection**
+
+- **Questionnaires:** Surveys delivered to participants to gather specific information about their experiences, conditions, or opinions.
+- **Electronic Health Records (EHR):** Extracting relevant data from participants' medical records with their consent.
+
+**Social Media Data Aggregation**
+
+- **Keyword Search:** Identifying relevant data by searching public social media posts for specific keywords or phrases like "I was diagnosed with [condition name]".
+- **Annotation:** Manually tagging or classifying extracted data to categorize and analyze it effectively.
+
+**Benefits and Considerations**
+
+- **Direct Participant Data**
+
+**Pros:** Controlled data quality, targeted information gathering, participant consent and ethical considerations.
+
+**Cons:** Potential for response bias, time and cost required to recruit and survey participants.
+
+- **Social Media Data**
+
+**Pros:** Large volume of data available, insights into real-world language and behavior, potential for cost-effectiveness.
+
+**Cons:** Privacy concerns, data quality challenges due to ambiguity and misinformation, ethical considerations regarding non-consensual data collection.
+
+### Data Exploration & Preprocessing
+
+**Feature Extraction:**
+
+- This involves transforming raw text data into numerical representations that computers can understand.
+- Techniques like **bag-of-words** (as shown in the example) analyze word frequency and create vectors for each document.
+- Other tools like **LIWC** analyze linguistic features like pronouns and emotional tones.
 
 ### Assignment
 
