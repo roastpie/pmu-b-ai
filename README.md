@@ -27,10 +27,10 @@
 |  <sub>Meeting 1</sub> | -           | <sub>Nov 15, 2023</sub> | <sub>reparatory</sub> | <sub>การใช้ GitHub สำหรับจัดทำ Personal AI Portfolio และส่ง Assignments</sub> | [<img width="18" src="/assets/img/youtube.png"/>](https://youtu.be/ZdS7RndVHXA) |
 |  <sub>Meeting 2</sub> | -           | <sub>Dec 4, 2023</sub>  | <sub>Follow-up</sub>   | <sub>xPore: An AI-Powered App for Bioinformaticians </sub>                    | [<img width="18" src="/assets/img/youtube.png"/>](https://youtu.be/rHZhLOXNTfg) |
 |  <sub>Meeting 3</sub> | -           | <sub>Dec 6, 2023</sub>  | <sub>Follow-up</sub>   | <sub>Learning from Biosignal     </sub>                                       | [<img width="18" src="/assets/img/youtube.png"/>](https://youtu.be/SzXkaPKn02Y) |
-|  <sub>Meeting 4</sub> | -           | <sub>Dec 8, 2023</sub>  | <sub>Follow-up</sub>   | <sub>AI for detecting code plagiarism  </sub>                                 | [<img width="18" src="/assets/img/youtube.png"/>](https://www.google.com/) |
-|  <sub>Meeting 5</sub> | -           | <sub>Dec 14, 2023</sub> | <sub>Follow-up</sub>   | <sub>BiTNet: AI for diagnosing ultrasound image  </sub>                       | [<img width="18" src="/assets/img/youtube.png"/>](https://www.google.com/) |
-|  <sub>Meeting 6</sub> | -           | <sub>Dec 19, 2023</sub> | <sub>Follow-up</sub>   | <sub>Mental disorder detection from social media data  </sub>                 | [<img width="18" src="/assets/img/youtube.png"/>](https://www.google.com/) |
-|  <sub>Meeting 7</sub> | -           | <sub>Dec 21, 2023</sub> | <sub>Follow-up</sub>   | <sub>AI for arresting criminals   </sub>                                      | [<img width="18" src="/assets/img/youtube.png"/>](https://www.google.com/) |
+|  <sub>Meeting 4</sub> | -           | <sub>Dec 8, 2023</sub>  | <sub>Follow-up</sub>   | <sub>AI for detecting code plagiarism  </sub>                                 | [<img width="18" src="/assets/img/youtube.png"/>](https://youtu.be/zcviIvd73Rw) |
+|  <sub>Meeting 5</sub> | -           | <sub>Dec 14, 2023</sub> | <sub>Follow-up</sub>   | <sub>BiTNet: AI for diagnosing ultrasound image  </sub>                       | [<img width="18" src="/assets/img/youtube.png"/>](https://youtu.be/wGVeCpGIKfs) |
+|  <sub>Meeting 6</sub> | -           | <sub>Dec 19, 2023</sub> | <sub>Follow-up</sub>   | <sub>Mental disorder detection from social media data  </sub>                 | [<img width="18" src="/assets/img/youtube.png"/>](https://youtu.be/jXL6Rt3PY8Y) |
+|  <sub>Meeting 7</sub> | -           | <sub>Dec 21, 2023</sub> | <sub>Follow-up</sub>   | <sub>AI for arresting criminals   </sub>                                      | [<img width="18" src="/assets/img/youtube.png"/>](https://youtu.be/F1aR662WBNw) |
 |  <sub>Assignment</sub> | <sub>Jan 10, 2024</sub> | -            | -           |  <sub>Submit Assignment</sub>  | - |
 
 </div>
@@ -52,116 +52,26 @@
 
 </div>
 <br/><br/>
+
 ---
 
-<details>
- <summary>
-   <h1>📦 Table of Contents</h1>
- </summary>
-<ol>
-  <li>
-    <a href="#xpore">🧬 xPore: An AI-Powered App for Bioinformaticians</a>
-    <ul>
-      <li>
-        <a href="#xpore-resources">Resources</a>
-        <ul>
-          <li><a href="#xpore-resources-notes">Notes</a></li>
-        </ul>
-      </li>
-        <li>
-        <a href="#xpore-notes">Notes</a>
-      </li>
-    </ul>
-  </li>
-  <li><a href="#biosignal">🧠 Learning from Biosignal</a>
-    <ul>
-      <li>
-        <a href="#biosignal-resources">Resources</a>
-        <ul>
-          <li><a href="#biosignal-resources-notes">Notes</a></li>
-        </ul>
-      </li>
-        <li>
-        <a href="#biosignal-notes">Notes</a>
-      </li>
-    </ul>
-  </li> 
-  <li><a href="#code-plagiarism">🕵🏼 AI for detecting code plagiarism</a>
-    <ul>
-      <li>
-        <a href="#code-plagiarism-resources">Resources</a>
-        <ul>
-          <li><a href="#code-plagiarism-resources-notes">Notes</a></li>
-        </ul>
-      </li>
-        <li>
-        <a href="#code-plagiarism-notes">Notes</a>
-      </li>
-    </ul>
-  </li>
-  <li><a href="#bitnet">🩺 BiTNet: AI for diagnosing ultrasound image</a>
-    <ul>
-      <li>
-        <a href="#bitnet-resources">Resources</a>
-        <ul>
-          <li><a href="#bitnet-resources-notes">Notes</a></li>
-        </ul>
-      </li>
-        <li>
-        <a href="#bitnet-notes">Notes</a>
-      </li>
-    </ul>
-  </li>
-  <li><a href="#mental-disorder">📊 Mental disorder detection from social media data</a>
-    <ul>
-      <li>
-        <a href="#mental-disorder-resources">Resources</a>
-        <ul>
-          <li><a href="#mental-disorder-resources-notes">Notes</a></li>
-        </ul>
-      </li>
-        <li>
-        <a href="#mental-disorder-notes">Notes</a>
-      </li>
-    </ul>
-  </li>
-  <li><a href="#anomaly-detection">⚖️ AI for arresting criminals</a>
-    <ul>
-      <li>
-        <a href="#anomaly-detection-resources">Resources</a>
-        <ul>
-          <li><a href="#anomaly-detection-resources-notes">Notes</a></li>
-        </ul>
-      </li>
-        <li>
-        <a href="#anomaly-detection-notes">Notes</a>
-      </li>
-    </ul>
-  </li>
-</ol>
-</details>
+
 <h2 id="xpore">
     🧬 xPore: An AI-Powered App for Bioinformaticians
 </h2>
-test
+
+> ซอฟท์แวร์ที่ช่วยเปรียบเทียบตำแหน่งของลำดับเบสบนสาย RNA ของเซลล์ใด ๆ เช่น เปรียบเทียบระหว่าง RNA ของผู้ป่วยมะเร็งกับคนปกติ ว่าตำแหน่งใดบนสาย RNA ที่มีลักษณะโมเลกุลไม่เหมือนกัน โดยการใช้ข้อมูลสัญญาณไฟฟ้าที่มาจาก Nanopore sequencer ซึ่งเป็นเครื่องมือแรกและเครื่องมือชนิดเดียวในตอนนี้สามารถ sequence ลำดับเบสของสาย RNA ได้โดยตรงอย่างมีประสิทธิภาพ
 
 ### Resource
 
 <ul>
-  <li>blahblah</li>
-  <li>blahblah
-    <ul>
-      <li>blahblah</li>
-      <li>blahblah</li>
-    </ul>
+  <li>
+    <a href="./xPore#notes">Note</a>
+  </li>
+  <li>
+    <a href="./xPore#assignment">Assigment</a>
   </li>
 </ul>
-
-### Notes
-
-```plaintext
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean pulvinar nulla sapien, ut vehicula justo sollicitudin nec.
-```
 
 <a href="#xpore">Jump to xPore</a> | <a href="#biosignal">Jump to Biosignal</a>
 
@@ -170,25 +80,20 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean pulvinar nulla s
 <h2 id="biosignal">
     🧠 Learning from Biosignal
 </h2>
-test
+
+> แบบจำลองการเรียนรู้เชิงลึก (Deep Learning Model) สำหรับวิเคราะห์การนอน (Sleep Stage Scoring) ด้วยคลื่นสัญญาณสมอง ภายใต้โครงการ Learning from Biosignals
 
 ### Resource
 
 <ul>
-  <li>blahblah</li>
-  <li>blahblah
-    <ul>
-      <li>blahblah</li>
-      <li>blahblah</li>
-    </ul>
+  <li>
+    <a href="./TinySleepNet#notes">Note</a>
+  </li>
+  <li>
+    <a href="./TinySleepNet#assignment">Assigment</a>
   </li>
 </ul>
 
-### Notes
-
-```plaintext
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean pulvinar nulla sapien, ut vehicula justo sollicitudin nec.
-```
 
 <a href="#biosignal">Jump to Biosignal</a> | <a href="#code-plagiarism">Jump to Code plagiarism</a>
 
@@ -197,25 +102,20 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean pulvinar nulla s
 <h2 id="code-plagiarism">
     🕵🏼 AI for detecting code plagiarism
 </h2>
-test
+
+> ระบบ AI สำหรับช่วยตรวจวัดความเหมือนของโค้ดและตรวจจับการคัดลอกโค้ดถูกพัฒนาขึ้นมาเพื่อช่วยลดงานของนักพัฒนาซอฟต์แวร์ (software developer) ในค้นหาโค้ดที่เหมือนกัน เพื่อปรับปรุงคุณภาพของซอฟต์แวร์ตนเอง ช่วยลดงานของครู/อาจารย์ที่สอนวิชาเกี่ยวกับการเขียนโปรแกรม เพื่อให้ตรวจจับการลอกงานของนักเรียน/นักศึกษา (plagiarism) ได้อย่างรวดเร็วแม่นยำ
 
 ### Resource
 
 <ul>
-  <li>blahblah</li>
-  <li>blahblah
-    <ul>
-      <li>blahblah</li>
-      <li>blahblah</li>
-    </ul>
+  <li>
+    <a href="./CodeCloneDetection#notes">Note</a>
+  </li>
+  <li>
+    <a href="./CodeCloneDetection#assignment">Assigment</a>
   </li>
 </ul>
 
-### Notes
-
-```plaintext
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean pulvinar nulla sapien, ut vehicula justo sollicitudin nec.
-```
 
 <a href="#code-plagiarism">Jump to Code plagiarism</a> | <a href="#bitnet">Jump to BiTNet</a>
 
@@ -224,25 +124,19 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean pulvinar nulla s
 <h2 id="bitnet">
     🩺 BiTNet: AI for diagnosing ultrasound image
 </h2>
-test
+
+> ระบบ AI สำหรับช่วยคัดกรองความผิดปกติในช่องท้องส่วนบน ด้วยภาพถ่ายอัลตราซาวน์ถูกพัฒนาขึ้นมาเพื่อ       1. ช่วยลดงานของรังสีแพทย์ในการวินิจฉัยภาพถ่ายอัลตราซาวน์ที่ถูกส่งมาสอบถามจากแพทย์เวชปฏิบัติที่ทำหน้าที่คัดกรองผู้ป่วยมะเร๋งท่อน้ำดีที่หน้างาน       2. ช่วยเพิ่มความมั่นใจในการวินิจฉัยของแพทย์เวชปฏิบัติในการวินิจฉัยความผิดปกติอีกด้วย
 
 ### Resource
 
 <ul>
-  <li>blahblah</li>
-  <li>blahblah
-    <ul>
-      <li>blahblah</li>
-      <li>blahblah</li>
-    </ul>
+  <li>
+    <a href="./BiTNet#notes">Note</a>
+  </li>
+  <li>
+    <a href="./BiTNet#assignment">Assigment</a>
   </li>
 </ul>
-
-### Notes
-
-```plaintext
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean pulvinar nulla sapien, ut vehicula justo sollicitudin nec.
-```
 
 <a href="#bitnet">Jump to BiTNet</a> | <a href="#mental-disorder">Jump to Mental disorder detection</a>
 
@@ -251,25 +145,19 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean pulvinar nulla s
 <h2 id="mental-disorder">
     📊 Mental disorder detection from social media data
 </h2>
-test
+
+> Predicting mental health disorders from social media data เป็นการทำนายโรคซึมเศร้าจากข้อมูลการโพสบนสื่อสังคมออนไลน์ถูกพัฒนาขึ้นเพื่อ        1.เพื่อทำนายโรคซึมเศร้าจากข้อมูลสื่อสังคมออนไลน์ ซึ่งเริ่มต้นด้วยการรวบรวมข้อมูลจากแพลตฟอร์มสื่อสังคมออนไลน์ เช่น เฟสบุ๊ค, ทวิตเตอร์, อินสตาแกรม หรือเว็บไซต์อื่น ๆ ที่ผู้คนใช้ในการแสดงความรู้สึกและความคิดเห็นของพวกเขาเกี่ยวกับสถานะจิตใจของตนเอง        2.หลังจากที่เราสามารถทำนายโรคซึมเศร้าได้ด้วยความแม่นยำ เราสามารถใช้ข้อมูลนี้เพื่อรวบรวมกลุ่มผู้ที่เสี่ยงต่อโรคซึมเศร้าและให้การสนับสนุนที่เหมาะสมได้
 
 ### Resource
 
 <ul>
-  <li>blahblah</li>
-  <li>blahblah
-    <ul>
-      <li>blahblah</li>
-      <li>blahblah</li>
-    </ul>
+  <li>
+    <a href="./Mental-disorder-detection#notes">Note</a>
+  </li>
+  <li>
+    <a href="./Mental-disorder-detection#assignment">Assigment</a>
   </li>
 </ul>
-
-### Notes
-
-```plaintext
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean pulvinar nulla sapien, ut vehicula justo sollicitudin nec.
-```
 
 <a href="#mental-disorder">Jump to Mental disorder detection</a> | <a href="#anomaly-detection">Jump to AI for arresting criminals</a>
 
@@ -278,24 +166,18 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean pulvinar nulla s
 <h2 id="anomaly-detection">
     ⚖️ AI for arresting criminals
 </h2>
-test
+
+> ระบบการติดตามจับกุมคนร้ายด้วยเทคโนโลยีปัญญาประดิษฐ์ (Research and Development of Tracking Systems for Arresting Criminals Using Artificial Intelligence)
 
 ### Resource
 
 <ul>
-  <li>blahblah</li>
-  <li>blahblah
-    <ul>
-      <li>blahblah</li>
-      <li>blahblah</li>
-    </ul>
+  <li>
+    <a href="./AI-for-arresting-criminals#notes">Note</a>
+  </li>
+  <li>
+    <a href="./AI-for-arresting-criminals#assignment">Assigment</a>
   </li>
 </ul>
-
-### Notes
-
-```plaintext
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean pulvinar nulla sapien, ut vehicula justo sollicitudin nec.
-```
 
 <a href="#anomaly-detection">Jump to AI for arresting criminals</a> | [Back to top](#)
