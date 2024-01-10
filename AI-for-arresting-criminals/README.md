@@ -4,7 +4,7 @@
 
 > ระบบการติดตามจับกุมคนร้ายด้วยเทคโนโลยีปัญญาประดิษฐ์ (Research and Development of Tracking Systems for Arresting Criminals Using Artificial Intelligence)
 
-### Project structure
+## Project structure
 
 ```plaintext
 📂 AI-for-arresting-criminals
@@ -17,7 +17,7 @@
 └─ 📄 README.md                               # This file
 ```
 
-### Table of Contents
+## Table of Contents
 
 <ul>
   <li>
@@ -36,7 +36,7 @@
   </li>
 </ul>
 
-### Notes
+## Notes
 [<img src="https://img.shields.io/badge/view%20in%20notion-grey?style=for-the-badge&logo=notion" />](https://xinnypie.notion.site/AI-for-arresting-criminals-44e133329d0d4a399a29733daed989cc?pvs=4)
 
 

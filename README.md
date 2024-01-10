@@ -8,7 +8,14 @@
 
 > 960 - ภาณุปรัชญ์ สุวรรณจันทร์
 >
-> <br/><br/>
+
+## 🎞️ Video Presentation
+<div align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QO6NCSRp27Y?si=WiRtWiZCWp6OM412" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[Presentation File](https://google.com)
+
+</div>
 
 
 ## 📅 Calendar
@@ -45,8 +52,6 @@
 
 </div>
 <br/><br/>
-White Bright Blue Neon Green Professional Gradients Pitch Deck Business Presentation
-
 ---
 
 <details>
@@ -294,6 +299,3 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean pulvinar nulla s
 ```
 
 <a href="#anomaly-detection">Jump to AI for arresting criminals</a> | [Back to top](#)
-=======
-# pmb-u-ai
->>>>>>> ccf8b9f (Initial commit)
