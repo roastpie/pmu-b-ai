@@ -46,6 +46,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean pulvinar nulla s
 
 ### Assignment
 
-<a target="_blank" href="https://colab.research.google.com/github/xinnypie/pmb-u-ai/tree/master/AI-for-arresting-criminals/assignment/src/object_detection.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/xinnypie/pmb-u-ai/blob/master/AI-for-arresting-criminals/assignment/src/object_detection.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>

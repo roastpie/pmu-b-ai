@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <br/>
 <div align="center">
     <img src="https://m1r.ai/9/j0r9c.jpg" width="150" alt="Tailwind logo">
