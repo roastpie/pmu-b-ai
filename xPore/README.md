@@ -24,8 +24,13 @@
   <details>
     <summary>Notes</summary>
     <ul>
-      <li>blahblah</li>
-      <li>blahblah</li>
+      <li>
+       <a href="#problem-statement">Problem Statement</a>
+      </li>
+      <li><a href="#data-collection-and-preparation">Data Collection and Preparation</a></li>
+      <li><a href="#modeling">Modeling</a></li>
+      <li><a href="#evaluation">evaluation</a></li>
+      <li><a href="#future-work">Future Work</a></li>
     </ul>
   </details>
   </li>
