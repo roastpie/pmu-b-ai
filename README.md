@@ -4,6 +4,8 @@
 
 **Student: S00960 - ภาณุปรัชญ์ สุวรรณจันทร์**
 
+<br/>
+
 ## 📋 Table of Contents
 1. [xPore: AI-Powered Bioinformatics App](#1-🧬-xpore-ai-powered-bioinformatics-app)
 2. [TinySleepNet: Biosignal Analysis](#2-🧠-tinysleepnet-biosignal-analysis)
@@ -12,10 +14,13 @@
 5. [Mental Disorder Detection](#5-📊-mental-disorder-detection)
 6. [AI for arresting criminals](#6-⚖️-criminal-tracking-ai)
 
+<br/>
+
 ## 🚀 Contents
 
 ### 🧬 xPore: AI-Powered Bioinformatics App
 **Objective** 
+
 Develop a sophisticated computational tool designed to revolutionize RNA sequence analysis by leveraging advanced Nanopore sequencing technologies. The primary goal is to enable precise, comparative analysis of base sequence positions across different cellular RNA samples, with a particular focus on identifying molecular variations between healthy and diseased tissues, such as cancer cells.
 
 **Key Features**
@@ -36,6 +41,7 @@ Develop a sophisticated computational tool designed to revolutionize RNA sequenc
 
 ### 🧠 TinySleepNet: Biosignal Analysis
 **Objective**
+
 Create an advanced deep learning model that transforms sleep stage analysis by utilizing sophisticated brain wave signal processing techniques. The project aims to develop a robust, intelligent system capable of accurately interpreting and classifying sleep stages through complex neural network architectures, providing unprecedented insights into human sleep patterns.
 
 **Key Features**
@@ -56,6 +62,7 @@ Create an advanced deep learning model that transforms sleep stage analysis by u
 
 ### 🕵️ Code Plagiarism Detection
 **Objective**
+
 Develop an intelligent AI-powered system that revolutionizes code similarity detection and plagiarism prevention. The project aims to create a comprehensive solution that not only identifies code duplications but also provides nuanced insights into coding patterns, supporting both software development professionals and educational institutions in maintaining academic and professional integrity.
 
 **Key Features**
@@ -77,6 +84,7 @@ Develop an intelligent AI-powered system that revolutionizes code similarity det
 
 ### 🩺 BiTNet: Ultrasound Image Diagnosis
 **Objective**
+
 Create an advanced artificial intelligence system specifically designed to enhance medical imaging diagnostics, with a focused approach on screening upper abdominal abnormalities. The project aims to develop a robust AI model that supports medical professionals by providing accurate, rapid, and reliable analysis of ultrasound images, particularly in the critical area of bile duct cancer detection.
 
 **Key Features**
@@ -98,6 +106,7 @@ Create an advanced artificial intelligence system specifically designed to enhan
 
 ### 📊 Mental Disorder Detection
 **Objective**
+
 Develop an innovative artificial intelligence system capable of predicting potential mental health disorders by analyzing social media data. The project aims to create a sophisticated machine learning model that can identify early signs of depression and other mental health challenges by processing and interpreting emotional content across various digital platforms.
 
 **Key Features**
@@ -119,6 +128,7 @@ Develop an innovative artificial intelligence system capable of predicting poten
 
 ### ⚖️ AI for arresting criminals
 **Objective**
+
 Design and develop a cutting-edge artificial intelligence system for advanced criminal tracking and arrest support. The project aims to create an innovative technological solution that enhances law enforcement capabilities through sophisticated anomaly detection, pattern recognition, and predictive analytics, ultimately supporting more effective and efficient criminal investigation processes.
 
 **Key Features**
