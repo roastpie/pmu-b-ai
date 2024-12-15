@@ -7,12 +7,12 @@
 <br/>
 
 ## 📋 Table of Contents
-1. [xPore: AI-Powered Bioinformatics App](#1-🧬-xpore-ai-powered-bioinformatics-app)
-2. [TinySleepNet: Biosignal Analysis](#2-🧠-tinysleepnet-biosignal-analysis)
-3. [Code Plagiarism Detection](#3-🕵️-code-plagiarism-detection)
-4. [BiTNet: Ultrasound Image Diagnosis](#4-🩺-bitnet-ultrasound-image-diagnosis)
-5. [Mental Disorder Detection](#5-📊-mental-disorder-detection)
-6. [AI for arresting criminals](#6-⚖️-criminal-tracking-ai)
+1. [xPore: AI-Powered Bioinformatics App](#-xpore-ai-powered-bioinformatics-app)
+2. [TinySleepNet: Biosignal Analysis](#-tinysleepnet-biosignal-analysis)
+3. [Code Plagiarism Detection](#%EF%B8%8F-code-plagiarism-detection)
+4. [BiTNet: Ultrasound Image Diagnosis](#-bitnet-ultrasound-image-diagnosis)
+5. [Mental Disorder Detection](#-mental-disorder-detection)
+6. [AI for arresting criminals](#%EF%B8%8F-ai-for-arresting-criminals)
 
 <br/>
 
