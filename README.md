@@ -1,6 +1,6 @@
 # 🤖 PMU-B Personal AI Portfolio
 
-[![📺 Watch Video Presentation](http://img.youtube.com/vi/0yx6dLPDcyc/0.jpg)](https://youtu.be/0yx6dLPDcyc)
+[![📺 Watch Video Presentation](http://img.youtube.com/vi/Q9hPSNuLsXY/0.jpg)](https://youtu.be/Q9hPSNuLsXY)
 
 **Student: S00960 - ภาณุปรัชญ์ สุวรรณจันทร์**
 
