@@ -31,7 +31,7 @@ Develop a sophisticated computational tool designed to revolutionize RNA sequenc
 - High-precision RNA sequencing interpretation
 
 <div style="display: flex; gap: 10px; justify-content: center; align-items: center;">
-    <a href="https://powerclass.org/tutor-certificate-3?cert_hash=11fd029394a67d08" target="_blank"><button>🏅 Certificate</button></a>  |  
+    <a href="https://powerclass.org/tutor-certificate-3?cert_hash=64df3774e72a176d" target="_blank"><button>🏅 Certificate</button></a>  |  
     <a href="./xPore#notes" target="_blank"><button>📝 Notes</button></a>  |  
     <a href="./xPore#assignment" target="_blank"><button>📚 Assignment</button></a> |  
     <a href="https://youtu.be/rHZhLOXNTfg" target="_blank"><button>🎥 Meeting Video</button></a>
@@ -52,7 +52,7 @@ Create an advanced deep learning model that transforms sleep stage analysis by u
 - Machine learning-powered sleep stage scoring
 
 <div style="display: flex; gap: 10px; justify-content: center; align-items: center;">
-    <a href="https://powerclass.org/tutor-certificate-3?cert_hash=2c50b24f8076e9ed" target="_blank"><button>🏅 Certificate</button></a>  |  
+    <a href="https://powerclass.org/tutor-certificate-3?cert_hash=2f614364ac8bbee2" target="_blank"><button>🏅 Certificate</button></a>  |  
     <a href="./TinySleepNet#notes" target="_blank"><button>📝 Notes</button></a>  |  
     <a href="./TinySleepNet#assignment" target="_blank"><button>📚 Assignment</button></a> |  
     <a href="https://youtu.be/SzXkaPKn02Y" target="_blank"><button>🎥 Meeting Video</button></a>
@@ -74,7 +74,7 @@ Develop an intelligent AI-powered system that revolutionizes code similarity det
 - Detailed similarity reports and insights
 
 <div style="display: flex; gap: 10px; justify-content: center; align-items: center;">
-    <a href="https://powerclass.org/tutor-certificate-3?cert_hash=53c67069aea113cc" target="_blank"><button>🏅 Certificate</button></a>  |  
+    <a href="https://powerclass.org/tutor-certificate-3?cert_hash=e978dda824159e63" target="_blank"><button>🏅 Certificate</button></a>  |  
     <a href="./CodeCloneDetection#notes" target="_blank"><button>📝 Notes</button></a>  |  
     <a href="./CodeCloneDetection#assignment" target="_blank"><button>📚 Assignment</button></a> |  
     <a href="https://youtu.be/zcviIvd73Rw" target="_blank"><button>🎥 Meeting Video</button></a>
@@ -96,7 +96,7 @@ Create an advanced artificial intelligence system specifically designed to enhan
 - Rapid image processing and interpretation
 
 <div style="display: flex; gap: 10px; justify-content: center; align-items: center;">
-    <a href="https://powerclass.org/tutor-certificate-3?cert_hash=a73e22c4eb39a111" target="_blank"><button>🏅 Certificate</button></a>  |  
+    <a href="https://powerclass.org/tutor-certificate-3?cert_hash=696ea20732f229e0" target="_blank"><button>🏅 Certificate</button></a>  |  
     <a href="./BiTNet#notes" target="_blank"><button>📝 Notes</button></a>  |  
     <a href="./BiTNet#assignment" target="_blank"><button>📚 Assignment</button></a> |  
     <a href="https://youtu.be/wGVeCpGIKfs" target="_blank"><button>🎥 Meeting Video</button></a>
@@ -118,7 +118,7 @@ Develop an innovative artificial intelligence system capable of predicting poten
 - Ethical and privacy-conscious data processing
 
 <div style="display: flex; gap: 10px; justify-content: center; align-items: center;">
-    <a href="https://powerclass.org/tutor-certificate-3?cert_hash=b19d0b4c60e8c8f5" target="_blank"><button>🏅 Certificate</button></a>  |  
+    <a href="https://powerclass.org/tutor-certificate-3?cert_hash=de744d069ee7265c" target="_blank"><button>🏅 Certificate</button></a>  |  
     <a href="./Mental-disorder-detection#notes" target="_blank"><button>📝 Notes</button></a>  |  
     <a href="./Mental-disorder-detection#assignment" target="_blank"><button>📚 Assignment</button></a> |  
     <a href="https://youtu.be/jXL6Rt3PY8Y" target="_blank"><button>🎥 Meeting Video</button></a>
@@ -140,7 +140,7 @@ Design and develop a cutting-edge artificial intelligence system for advanced cr
 - Ethical and legal-compliant technological solution
 
 <div style="display: flex; gap: 10px; justify-content: center; align-items: center;">
-    <a href="https://powerclass.org/tutor-certificate-3?cert_hash=169b764931c67875" target="_blank"><button>🏅 Certificate</button></a>  |  
+    <a href="https://powerclass.org/tutor-certificate-3?cert_hash=89c8426d9ca274e2" target="_blank"><button>🏅 Certificate</button></a>  |  
     <a href="./AI-for-arresting-criminals#notes" target="_blank"><button>📝 Notes</button></a>  |  
     <a href="./AI-for-arresting-criminals#assignment" target="_blank"><button>📚 Assignment</button></a> |  
     <a href="https://youtu.be/F1aR662WBNw" target="_blank"><button>🎥 Meeting Video</button></a>
