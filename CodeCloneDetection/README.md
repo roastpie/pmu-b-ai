@@ -1,10 +1,8 @@
-<h2 id="codeclonedetection">
-    🕵🏼 AI for detecting code plagiarism
-</h2>
+## 🕵🏼 AI for Detecting Code Plagiarism
 
-> ระบบ AI สำหรับช่วยตรวจวัดความเหมือนของโค้ดและตรวจจับการคัดลอกโค้ดถูกพัฒนาขึ้นมาเพื่อช่วยลดงานของนักพัฒนาซอฟต์แวร์ (software developer) ในค้นหาโค้ดที่เหมือนกัน เพื่อปรับปรุงคุณภาพของซอฟต์แวร์ตนเอง ช่วยลดงานของครู/อาจารย์ที่สอนวิชาเกี่ยวกับการเขียนโปรแกรม เพื่อให้ตรวจจับการลอกงานของนักเรียน/นักศึกษา (plagiarism) ได้อย่างรวดเร็วแม่นยำ
+> An AI system for detecting code similarity and plagiarism has been developed to assist software developers in identifying similar code. This system aims to reduce the workload of software developers and educators, allowing them to quickly and accurately detect code plagiarism in student submissions.
 
-### Project structure
+### Project Structure
 
 ```plaintext
 📂 CodeCloneDetection
@@ -13,129 +11,106 @@
 │  │  └─ 📄 code2vec-to-detect-code-clone.ipynb       # Submitted Assignment
 ├─ 📂 Lecture                                         # Folder containing lecture notes
 │  ├─ 📄 slide.pdf                                    # Lecture slide
-│  └─ 📄 mynote.pdf                                   # My personal note
+│  └─ 📄 mynote.pdf                                   # Personal notes
 └─ 📄 README.md                                       # This file
 ```
 
 ### Table of Contents
 
-<ul>
-  <li>
-  <details>
-    <summary>Notes</summary>
-    <ul>
-      <li>
-       <a href="#problem-statement">Problem Statement</a>
-      </li>
-      <li><a href="#what-are-code-clones">What are Code Clones?</a></li>
-      <li><a href="#modeling">Modeling</a></li>
-      <li><a href="#evaluation">evaluation</a></li>
-      <li><a href="#conclusions">Conclusions</a></li>
-      <li><a href="#future-work">Future Work</a></li>
-    </ul>
-  </details>
-  </li>
-  <li>
-   <a href="#assignment">
-    Assignment
-    </a>
-  </li>
-</ul>
+- [Notes](#notes)
+  - [Problem Statement](#problem-statement)
+  - [What are Code Clones?](#what-are-code-clones)
+  - [Modeling](#modeling)
+  - [Evaluation](#evaluation)
+  - [Conclusions](#conclusions)
+  - [Future Work](#future-work)
+- [Assignment](#assignment)
 
 ### Notes
-[<img src="https://img.shields.io/badge/view%20in%20notion-grey?style=for-the-badge&logo=notion" />](https://xinnypie.notion.site/AI-for-detecting-code-plagiarism-d6da4d5671f84e08b1595cb7d32da919?pvs=4) [<img src="https://img.shields.io/badge/view%20in%20pdf-grey?style=for-the-badge&logo=github" />](./lecture/file/mynote.pdf)
 
+[<img src="https://img.shields.io/badge/view%20in%20notion-grey?style=for-the-badge&logo=notion" />](https://xinnypie.notion.site/AI-for-detecting-code-plagiarism-d6da4d5671f84e08b1595cb7d32da919?pvs=4)  
+[<img src="https://img.shields.io/badge/view%20in%20pdf-grey?style=for-the-badge&logo=github" />](./lecture/file/mynote.pdf)
 
 ### Problem Statement
 
-- The existing techniques and tools are still facing challenges when detecting
-clones with several modifications (e.g., added/deleted/modified statements).
-- Existing clone detection and plagiarism detection tools are difficult to use
-because it is command line based tool.
+- Existing techniques and tools face challenges when detecting clones with multiple modifications (e.g., added, deleted, or modified statements).
+- Many tools are difficult to use because they are command-line based.
 
 ### What are Code Clones?
 
 **Code Clones** are two or more code fragments that are similar enough to be considered duplicates. They can be classified into two main types:
 
-- **Syntactic clones** are identical or nearly identical code fragments, except for differences in layout, white space, and comments.
-- **Functional clones** are code fragments that have the same functionality, even if they have different syntax or algorithms.
+- **Syntactic Clones :** Identical or nearly identical code fragments, except for layout differences, white space, and comments.
+- **Functional Clones :** Code fragments that perform the same functionality, even if the syntax or algorithms differ.
 
-Code clones can be found in all types of software, and they can be caused by a variety of factors, including:
+**Causes of Code Clones**
+- Copy-paste errors
+- Reusing code from other projects
+- Using code templates
+- Automated code generation
 
-- **Copy-paste errors**
-- **Reusing code from other projects**
-- **Using code templates**
-- **Automated code generation**
+### Modeling
 
-### Modelling
+**1. Data Collection and Preparation**
 
-**1. Data Collection and Preparation:**
+- **Data Source :** BigCloneBench, a large and reliable dataset of code clones.
+- **Data Splitting :** Stratified sampling to create balanced training and testing sets.
 
-- **Data Source:** BigCloneBench, a large and reliable dataset of code clones.
-- **Data Splitting:** The dataset is split into training and testing sets using stratified sampling to ensure balanced representation of different clone types.
+**2. Code Metrics Extraction**
 
-**2. Code Metrics Extraction:**
+- **Syntactic Metrics :** 11 metrics focusing on structural characteristics (e.g., number of tokens, identifiers, operators).
+- **Semantic Metrics :** 12 features extracted using **code2vec**, a neural model that represents code as vectors capturing semantic meaning.
 
-- **Syntactic Metrics:** 11 metrics are extracted, focusing on structural characteristics of the code (e.g., number of tokens, identifiers, operators, differences in file and method names, return types, lines of code).
-- **Semantic Metrics:** 12 features are obtained using code2vec, a neural model that represents code snippets as fixed-length vectors capturing their semantic meaning.
+**3. Machine Learning Models**
 
-**3. Machine Learning Models:**
+- **Models Considered :** Decision Tree, Random Forest, and Support Vector Machine (SVM) with Sequential Minimal Optimization (SMO).
 
-- **Models Considered:** Decision Tree, Random Forest, and Support Vector Machine (SVM) with Sequential Minimal Optimization (SMO).
-
-**Key Points:**
-
-- **Data Quality:** Emphasizes the use of a reliable dataset (BigCloneBench) for training and evaluation.
-- **Feature Engineering:** Combines both syntactic and semantic metrics to capture different aspects of code similarity.
-- **Model Exploration:** Considers multiple machine learning models to find the best fit for the task.
+**Key Points**
+- **Data Quality :** Reliable dataset for training and evaluation.
+- **Feature Engineering :** Combining syntactic and semantic metrics to capture code similarity.
+- **Model Exploration :** Testing different machine learning models to find the best fit.
 
 ### Evaluation
 
-**Accuracy Evaluation:**
+**Accuracy Evaluation**
 
-- **BigCloneBench (BCB) Dataset:**
-    - Precision, Recall, and F1-score values were calculated for different clone types.
-    - The model achieved overall good performance, with F1-scores ranging from 0.65 to 0.86.
-- **Real Software Projects:**
-    - The model was evaluated on three real-world projects (JUnit4, Natty, and Merry).
-    - Precision scores varied, ranging from 0.41 to 0.77.
-    - Evaluation involved human experts to judge clone pairs.
+- **BigCloneBench (BCB) Dataset**
+  - Precision, Recall, and F1-scores were calculated for different clone types.
+  - F1-scores ranged from 0.65 to 0.86.
+- **Real Software Projects**
+  - Evaluated on three real-world projects (JUnit4, Natty, Merry).
+  - Precision scores ranged from 0.41 to 0.77.
 
 **Tool Adoption Evaluation:**
 
-- **Target Users:** Computer Science students, programmers, and developers.
-- **User Study Methodology:**
-    - Between-Subjects design: Participants were randomly assigned to either a command-line tool (Simian) or the Merry web-based tool.
-    - Metrics: Likeliness of using the tool, ease of understanding, and ease of use.
+- **Target Users :** Computer Science students, programmers, and developers.
+- **User Study Methodology**
+  - Between-Subjects design comparing a command-line tool (Simian) to a web-based tool (Merry).
+  - Metrics included tool usability, ease of understanding, and likeliness to use.
 
 ### Conclusions
 
-**Key points:**
+**Key Points**
+- **Merry** is a web-based tool using machine learning to detect code clones.
+- **Goals:** Improve accuracy and user experience compared to existing tools.
+- **Merry Engine:** Uses 4 machine learning models with good performance on the BigCloneBench dataset but varied results on real projects.
+- **Merry Web Application:** Integrates with GitHub and offers a user-friendly interface.
 
-- **Merry is a web-based tool that uses machine learning to detect code clones.**
-- **Goals:** Improve accuracy and user experience compared to existing tools.
-- **Merry Engine:** Uses 4 machine learning models and shows promising performance on BigCloneBench dataset but has varied results on real projects.
-- **Merry Web Application:** Integrates with GitHub and offers a user-friendly interface for code clone detection.
+**Challenges and Limitations**
+- Supports only Java.
+- Performance issues with code2vec.
+- Evaluation performance may not reflect real-world projects.
+- Scalability concerns with MongoDB.
+- Small sample size in user study.
 
-**Challenges and Limitations:**
+### Future Work
 
-- Supports only Java language.
-- code2vec performance issues.
-- Evaluated performance might not reflect real-world projects.
-- Database scalability concerns.
-- Potential bias in user study due to small sample size.
-
-### Future work
-
-- Expand the tool to detect clones in other languages
-- Improve the code2vec run-time
-- Create dedicated machine learning model per clone type
-- Solve the MongoDB limitation by query a part of MongoDB document at
-a time
-- Expand the number of participants in the user study.
+- Expand tool support to other languages.
+- Improve code2vec performance.
+- Create dedicated models for each clone type.
+- Solve MongoDB limitations by querying parts of documents at a time.
+- Increase the number of participants in user studies.
 
 ### Assignment
 
-<a target="_blank" href="https://colab.research.google.com/github/xinnypie/pmb-u-ai/blob/master/CodeCloneDetection/assignment/src/code2vec-to-detect-code-clone.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
+[<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>](https://colab.research.google.com/github/xinnypie/pmb-u-ai/blob/master/CodeCloneDetection/assignment/src/code2vec-to-detect-code-clone.ipynb)
