@@ -1,185 +1,139 @@
-<br/>
-<div align="center">
-    <img src="https://m1r.ai/9/j0r9c.jpg" width="150" alt="Tailwind logo">
+# 🤖 PMU-B Personal AI Portfolio
+
+[![📺 Watch Video Presentation](http://img.youtube.com/vi/0yx6dLPDcyc/0.jpg)](https://youtu.be/0yx6dLPDcyc)
+
+**Student: S00960 - ภาณุปรัชญ์ สุวรรณจันทร์**
+
+## 📋 Table of Contents
+1. [xPore: AI-Powered Bioinformatics App](#1-🧬-xpore-ai-powered-bioinformatics-app)
+2. [TinySleepNet: Biosignal Analysis](#2-🧠-tinysleepnet-biosignal-analysis)
+3. [Code Plagiarism Detection](#3-🕵️-code-plagiarism-detection)
+4. [BiTNet: Ultrasound Image Diagnosis](#4-🩺-bitnet-ultrasound-image-diagnosis)
+5. [Mental Disorder Detection](#5-📊-mental-disorder-detection)
+6. [AI for arresting criminals](#6-⚖️-criminal-tracking-ai)
+
+## 🚀 Contents
+
+### 🧬 xPore: AI-Powered Bioinformatics App
+**Objective** 
+Develop a sophisticated computational tool designed to revolutionize RNA sequence analysis by leveraging advanced Nanopore sequencing technologies. The primary goal is to enable precise, comparative analysis of base sequence positions across different cellular RNA samples, with a particular focus on identifying molecular variations between healthy and diseased tissues, such as cancer cells.
+
+**Key Features**
+- Advanced RNA base sequence comparative analysis
+- Direct utilization of Nanopore sequencer electrical signal data
+- Molecular-level RNA sequence variation detection
+- Specialized in comparative genomic research
+- High-precision RNA sequencing interpretation
+
+<div style="display: flex; gap: 10px; justify-content: center; align-items: center;">
+    <a href="https://powerclass.org/tutor-certificate-3?cert_hash=11fd029394a67d08" target="_blank"><button>🏅 Certificate</button></a>  |  
+    <a href="./xPore#notes" target="_blank"><button>📝 Notes</button></a>  |  
+    <a href="./xPore#assignment" target="_blank"><button>📚 Assignment</button></a> |  
+    <a href="https://youtu.be/rHZhLOXNTfg" target="_blank"><button>🎥 Meeting Video</button></a>
 </div>
-<br/><br/>
 
-# 🤖 PMU-B Personal AI
-
-> 960 - ภาณุปรัชญ์ สุวรรณจันทร์
->
-
-## 🎞️ Video Presentation
-<div align="center">
-
-<a href="https://www.youtube.com/watch?v=0yx6dLPDcyc">
-         <img src="https://img.youtube.com/vi/0yx6dLPDcyc/0.jpg" style="width:100%;">
-</a>
-
-
-</div>
-
-
-## 📅 Calendar
-
-<div align="center">
-
-| Task        | Deadline         | Date    | Note               | Description                                      |  Video  |
-| --------- | ----------- | ------------ | ----------- | ------------------------------------------------------------------ |-------------- |
-|  <sub>Meeting 1</sub> | -           | <sub>Nov 15, 2023</sub> | <sub>reparatory</sub> | <sub>การใช้ GitHub สำหรับจัดทำ Personal AI Portfolio และส่ง Assignments</sub> | [<img width="18" src="/assets/img/youtube.png"/>](https://youtu.be/ZdS7RndVHXA) |
-|  <sub>Meeting 2</sub> | -           | <sub>Dec 4, 2023</sub>  | <sub>Follow-up</sub>   | <sub>xPore: An AI-Powered App for Bioinformaticians </sub>                    | [<img width="18" src="/assets/img/youtube.png"/>](https://youtu.be/rHZhLOXNTfg) |
-|  <sub>Meeting 3</sub> | -           | <sub>Dec 6, 2023</sub>  | <sub>Follow-up</sub>   | <sub>Learning from Biosignal     </sub>                                       | [<img width="18" src="/assets/img/youtube.png"/>](https://youtu.be/SzXkaPKn02Y) |
-|  <sub>Meeting 4</sub> | -           | <sub>Dec 8, 2023</sub>  | <sub>Follow-up</sub>   | <sub>AI for detecting code plagiarism  </sub>                                 | [<img width="18" src="/assets/img/youtube.png"/>](https://youtu.be/zcviIvd73Rw) |
-|  <sub>Meeting 5</sub> | -           | <sub>Dec 14, 2023</sub> | <sub>Follow-up</sub>   | <sub>BiTNet: AI for diagnosing ultrasound image  </sub>                       | [<img width="18" src="/assets/img/youtube.png"/>](https://youtu.be/wGVeCpGIKfs) |
-|  <sub>Meeting 6</sub> | -           | <sub>Dec 19, 2023</sub> | <sub>Follow-up</sub>   | <sub>Mental disorder detection from social media data  </sub>                 | [<img width="18" src="/assets/img/youtube.png"/>](https://youtu.be/jXL6Rt3PY8Y) |
-|  <sub>Meeting 7</sub> | -           | <sub>Dec 21, 2023</sub> | <sub>Follow-up</sub>   | <sub>AI for arresting criminals   </sub>                                      | [<img width="18" src="/assets/img/youtube.png"/>](https://youtu.be/F1aR662WBNw) |
-|  <sub>Assignment</sub> | <sub>Jan 10, 2024</sub> | -            | -           |  <sub>Submit Assignment</sub>  | - |
-
-</div>
 <br/>
 
-## 📚 Workshop
+### 🧠 TinySleepNet: Biosignal Analysis
+**Objective**
+Create an advanced deep learning model that transforms sleep stage analysis by utilizing sophisticated brain wave signal processing techniques. The project aims to develop a robust, intelligent system capable of accurately interpreting and classifying sleep stages through complex neural network architectures, providing unprecedented insights into human sleep patterns.
 
-<div align="center">
+**Key Features**
+- State-of-the-art deep learning neural network architecture
+- Precise brain wave signal interpretation
+- Automated sleep stage classification
+- High-resolution sleep pattern recognition
+- Machine learning-powered sleep stage scoring
 
-| Name                                                      | Note & Assignment                                              | Accomplishment                              | Link                                                                                 | Q&A                                                                                  |
-| --------------------------------------------------------- | ----------------------------------------------------------------- | ------------------------------------------- | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------- |
-| <sub>xPore: An AI-Powered App for Bioinformaticians</sub> | [<sub>👀 View</sub>](./xPore) | [<sub>🏅 Certificate</sub>](https://powerclass.org/tutor-certificate-3?cert_hash=11fd029394a67d08) | [<img width="18" src="/assets/img/powerclass.png"/>](https://t.ly/J-0JB) | [<img width="18" src="/assets/img/youtube.png"/>](https://youtu.be/rHZhLOXNTfg) |
-| <sub>TinySleepNet: Learning from Biosignal</sub> | [<sub>👀 View</sub>](./TinySleepNet) | [<sub>🏅 Certificate</sub>](https://powerclass.org/tutor-certificate-3?cert_hash=2c50b24f8076e9ed) | [<img width="18" src="/assets/img/powerclass.png"/>](https://t.ly/AT-Fp) | [<img width="18" src="/assets/img/youtube.png"/>](https://youtu.be/SzXkaPKn02Y) |
-| <sub>CodeCloneDetection: AI for detecting code plagiarism</sub> | [<sub>👀 View</sub>](./CodeCloneDetection) | [<sub>🏅 Certificate</sub>](https://powerclass.org/tutor-certificate-3?cert_hash=53c67069aea113cc) | [<img width="18" src="/assets/img/powerclass.png"/>](https://t.ly/3X2F4) | [<img width="18" src="/assets/img/youtube.png"/>](https://youtu.be/zcviIvd73Rw) |
-| <sub>BiTNet: AI for diagnosing ultrasound image</sub> | [<sub>👀 View</sub>](./BiTNet) | [<sub>🏅 Certificate</sub>](https://powerclass.org/tutor-certificate-3?cert_hash=a73e22c4eb39a111) | [<img width="18" src="/assets/img/powerclass.png"/>](https://t.ly/WPBE-) | [<img width="18" src="/assets/img/youtube.png"/>](https://youtu.be/wGVeCpGIKfs) |
-| <sub>Mental disorder detection from social media data</sub> | [<sub>👀 View</sub>](./Mental-disorder-detection) | [<sub>🏅 Certificate</sub>](https://powerclass.org/tutor-certificate-3?cert_hash=b19d0b4c60e8c8f5) | [<img width="18" src="/assets/img/powerclass.png"/>](https://shorturl.at/gpIW9) | [<img width="18" src="/assets/img/youtube.png"/>](https://youtu.be/jXL6Rt3PY8Y) |
-| <sub>AI for arresting criminals </sub> | [<sub>👀 View</sub>](./AI-for-arresting-criminals) | [<sub>🏅 Certificate</sub>](https://powerclass.org/tutor-certificate-3?cert_hash=169b764931c67875) | [<img width="18" src="/assets/img/powerclass.png"/>](https://shorturl.at/uLX68) | [<img width="18" src="/assets/img/youtube.png"/>](https://youtu.be/F1aR662WBNw) |
-
-
+<div style="display: flex; gap: 10px; justify-content: center; align-items: center;">
+    <a href="https://powerclass.org/tutor-certificate-3?cert_hash=2c50b24f8076e9ed" target="_blank"><button>🏅 Certificate</button></a>  |  
+    <a href="./TinySleepNet#notes" target="_blank"><button>📝 Notes</button></a>  |  
+    <a href="./TinySleepNet#assignment" target="_blank"><button>📚 Assignment</button></a> |  
+    <a href="https://youtu.be/SzXkaPKn02Y" target="_blank"><button>🎥 Meeting Video</button></a>
 </div>
-<br/><br/>
 
----
+<br/>
 
+### 🕵️ Code Plagiarism Detection
+**Objective**
+Develop an intelligent AI-powered system that revolutionizes code similarity detection and plagiarism prevention. The project aims to create a comprehensive solution that not only identifies code duplications but also provides nuanced insights into coding patterns, supporting both software development professionals and educational institutions in maintaining academic and professional integrity.
 
-<h2 id="xpore">
-    🧬 xPore: An AI-Powered App for Bioinformaticians
-</h2>
+**Key Features**
+- Advanced code comparison algorithms
+- Machine learning-based similarity detection
+- Comprehensive plagiarism identification mechanism
+- Intelligent code pattern recognition
+- Support for multiple programming languages
+- Detailed similarity reports and insights
 
-> ซอฟท์แวร์ที่ช่วยเปรียบเทียบตำแหน่งของลำดับเบสบนสาย RNA ของเซลล์ใด ๆ เช่น เปรียบเทียบระหว่าง RNA ของผู้ป่วยมะเร็งกับคนปกติ ว่าตำแหน่งใดบนสาย RNA ที่มีลักษณะโมเลกุลไม่เหมือนกัน โดยการใช้ข้อมูลสัญญาณไฟฟ้าที่มาจาก Nanopore sequencer ซึ่งเป็นเครื่องมือแรกและเครื่องมือชนิดเดียวในตอนนี้สามารถ sequence ลำดับเบสของสาย RNA ได้โดยตรงอย่างมีประสิทธิภาพ
+<div style="display: flex; gap: 10px; justify-content: center; align-items: center;">
+    <a href="https://powerclass.org/tutor-certificate-3?cert_hash=53c67069aea113cc" target="_blank"><button>🏅 Certificate</button></a>  |  
+    <a href="./CodeCloneDetection#notes" target="_blank"><button>📝 Notes</button></a>  |  
+    <a href="./CodeCloneDetection#assignment" target="_blank"><button>📚 Assignment</button></a> |  
+    <a href="https://youtu.be/zcviIvd73Rw" target="_blank"><button>🎥 Meeting Video</button></a>
+</div>
 
-### Resource
+<br/>
 
-<ul>
-  <li>
-    <a href="./xPore#notes">Note</a>
-  </li>
-  <li>
-    <a href="./xPore#assignment">Assigment</a>
-  </li>
-</ul>
+### 🩺 BiTNet: Ultrasound Image Diagnosis
+**Objective**
+Create an advanced artificial intelligence system specifically designed to enhance medical imaging diagnostics, with a focused approach on screening upper abdominal abnormalities. The project aims to develop a robust AI model that supports medical professionals by providing accurate, rapid, and reliable analysis of ultrasound images, particularly in the critical area of bile duct cancer detection.
 
-<a href="#xpore">Jump to xPore</a> | <a href="#biosignal">Jump to Biosignal</a>
+**Key Features**
+- Specialized ultrasound image analysis AI
+- Advanced abnormality detection algorithms
+- Machine learning-powered diagnostic support
+- Focus on upper abdominal region screening
+- Enhanced diagnostic accuracy and confidence
+- Rapid image processing and interpretation
 
-<br/><br/>
+<div style="display: flex; gap: 10px; justify-content: center; align-items: center;">
+    <a href="https://powerclass.org/tutor-certificate-3?cert_hash=a73e22c4eb39a111" target="_blank"><button>🏅 Certificate</button></a>  |  
+    <a href="./BiTNet#notes" target="_blank"><button>📝 Notes</button></a>  |  
+    <a href="./BiTNet#assignment" target="_blank"><button>📚 Assignment</button></a> |  
+    <a href="https://youtu.be/wGVeCpGIKfs" target="_blank"><button>🎥 Meeting Video</button></a>
+</div>
 
-<h2 id="biosignal">
-    🧠 Learning from Biosignal
-</h2>
+<br/>
 
-> แบบจำลองการเรียนรู้เชิงลึก (Deep Learning Model) สำหรับวิเคราะห์การนอน (Sleep Stage Scoring) ด้วยคลื่นสัญญาณสมอง ภายใต้โครงการ Learning from Biosignals
+### 📊 Mental Disorder Detection
+**Objective**
+Develop an innovative artificial intelligence system capable of predicting potential mental health disorders by analyzing social media data. The project aims to create a sophisticated machine learning model that can identify early signs of depression and other mental health challenges by processing and interpreting emotional content across various digital platforms.
 
-### Resource
+**Key Features**
+- Multi-platform social media data analysis
+- Advanced sentiment and emotion detection
+- Machine learning-powered mental health risk assessment
+- Comprehensive psychological content interpretation
+- Early depression and mental health disorder prediction
+- Ethical and privacy-conscious data processing
 
-<ul>
-  <li>
-    <a href="./TinySleepNet#notes">Note</a>
-  </li>
-  <li>
-    <a href="./TinySleepNet#assignment">Assigment</a>
-  </li>
-</ul>
+<div style="display: flex; gap: 10px; justify-content: center; align-items: center;">
+    <a href="https://powerclass.org/tutor-certificate-3?cert_hash=b19d0b4c60e8c8f5" target="_blank"><button>🏅 Certificate</button></a>  |  
+    <a href="./Mental-disorder-detection#notes" target="_blank"><button>📝 Notes</button></a>  |  
+    <a href="./Mental-disorder-detection#assignment" target="_blank"><button>📚 Assignment</button></a> |  
+    <a href="https://youtu.be/jXL6Rt3PY8Y" target="_blank"><button>🎥 Meeting Video</button></a>
+</div>
 
+<br/>
 
-<a href="#biosignal">Jump to Biosignal</a> | <a href="#code-plagiarism">Jump to Code plagiarism</a>
+### ⚖️ AI for arresting criminals
+**Objective**
+Design and develop a cutting-edge artificial intelligence system for advanced criminal tracking and arrest support. The project aims to create an innovative technological solution that enhances law enforcement capabilities through sophisticated anomaly detection, pattern recognition, and predictive analytics, ultimately supporting more effective and efficient criminal investigation processes.
 
-<br/><br/>
+**Key Features**
+- Advanced anomaly detection algorithms
+- Machine learning-powered tracking systems
+- Predictive criminal behavior analysis
+- Real-time data processing and interpretation
+- Support for law enforcement investigations
+- Ethical and legal-compliant technological solution
 
-<h2 id="code-plagiarism">
-    🕵🏼 AI for detecting code plagiarism
-</h2>
+<div style="display: flex; gap: 10px; justify-content: center; align-items: center;">
+    <a href="https://powerclass.org/tutor-certificate-3?cert_hash=169b764931c67875" target="_blank"><button>🏅 Certificate</button></a>  |  
+    <a href="./AI-for-arresting-criminals#notes" target="_blank"><button>📝 Notes</button></a>  |  
+    <a href="./AI-for-arresting-criminals#assignment" target="_blank"><button>📚 Assignment</button></a> |  
+    <a href="https://youtu.be/F1aR662WBNw" target="_blank"><button>🎥 Meeting Video</button></a>
+</div>
 
-> ระบบ AI สำหรับช่วยตรวจวัดความเหมือนของโค้ดและตรวจจับการคัดลอกโค้ดถูกพัฒนาขึ้นมาเพื่อช่วยลดงานของนักพัฒนาซอฟต์แวร์ (software developer) ในค้นหาโค้ดที่เหมือนกัน เพื่อปรับปรุงคุณภาพของซอฟต์แวร์ตนเอง ช่วยลดงานของครู/อาจารย์ที่สอนวิชาเกี่ยวกับการเขียนโปรแกรม เพื่อให้ตรวจจับการลอกงานของนักเรียน/นักศึกษา (plagiarism) ได้อย่างรวดเร็วแม่นยำ
-
-### Resource
-
-<ul>
-  <li>
-    <a href="./CodeCloneDetection#notes">Note</a>
-  </li>
-  <li>
-    <a href="./CodeCloneDetection#assignment">Assigment</a>
-  </li>
-</ul>
-
-
-<a href="#code-plagiarism">Jump to Code plagiarism</a> | <a href="#bitnet">Jump to BiTNet</a>
-
-<br/><br/>
-
-<h2 id="bitnet">
-    🩺 BiTNet: AI for diagnosing ultrasound image
-</h2>
-
-> ระบบ AI สำหรับช่วยคัดกรองความผิดปกติในช่องท้องส่วนบน ด้วยภาพถ่ายอัลตราซาวน์ถูกพัฒนาขึ้นมาเพื่อ       1. ช่วยลดงานของรังสีแพทย์ในการวินิจฉัยภาพถ่ายอัลตราซาวน์ที่ถูกส่งมาสอบถามจากแพทย์เวชปฏิบัติที่ทำหน้าที่คัดกรองผู้ป่วยมะเร๋งท่อน้ำดีที่หน้างาน       2. ช่วยเพิ่มความมั่นใจในการวินิจฉัยของแพทย์เวชปฏิบัติในการวินิจฉัยความผิดปกติอีกด้วย
-
-### Resource
-
-<ul>
-  <li>
-    <a href="./BiTNet#notes">Note</a>
-  </li>
-  <li>
-    <a href="./BiTNet#assignment">Assigment</a>
-  </li>
-</ul>
-
-<a href="#bitnet">Jump to BiTNet</a> | <a href="#mental-disorder">Jump to Mental disorder detection</a>
-
-<br/><br/>
-
-<h2 id="mental-disorder">
-    📊 Mental disorder detection from social media data
-</h2>
-
-> Predicting mental health disorders from social media data เป็นการทำนายโรคซึมเศร้าจากข้อมูลการโพสบนสื่อสังคมออนไลน์ถูกพัฒนาขึ้นเพื่อ        1.เพื่อทำนายโรคซึมเศร้าจากข้อมูลสื่อสังคมออนไลน์ ซึ่งเริ่มต้นด้วยการรวบรวมข้อมูลจากแพลตฟอร์มสื่อสังคมออนไลน์ เช่น เฟสบุ๊ค, ทวิตเตอร์, อินสตาแกรม หรือเว็บไซต์อื่น ๆ ที่ผู้คนใช้ในการแสดงความรู้สึกและความคิดเห็นของพวกเขาเกี่ยวกับสถานะจิตใจของตนเอง        2.หลังจากที่เราสามารถทำนายโรคซึมเศร้าได้ด้วยความแม่นยำ เราสามารถใช้ข้อมูลนี้เพื่อรวบรวมกลุ่มผู้ที่เสี่ยงต่อโรคซึมเศร้าและให้การสนับสนุนที่เหมาะสมได้
-
-### Resource
-
-<ul>
-  <li>
-    <a href="./Mental-disorder-detection#notes">Note</a>
-  </li>
-  <li>
-    <a href="./Mental-disorder-detection#assignment">Assigment</a>
-  </li>
-</ul>
-
-<a href="#mental-disorder">Jump to Mental disorder detection</a> | <a href="#anomaly-detection">Jump to AI for arresting criminals</a>
-
-<br/><br/>
-
-<h2 id="anomaly-detection">
-    ⚖️ AI for arresting criminals
-</h2>
-
-> ระบบการติดตามจับกุมคนร้ายด้วยเทคโนโลยีปัญญาประดิษฐ์ (Research and Development of Tracking Systems for Arresting Criminals Using Artificial Intelligence)
-
-### Resource
-
-<ul>
-  <li>
-    <a href="./AI-for-arresting-criminals#notes">Note</a>
-  </li>
-  <li>
-    <a href="./AI-for-arresting-criminals#assignment">Assigment</a>
-  </li>
-</ul>
-
-<a href="#anomaly-detection">Jump to AI for arresting criminals</a> | [Back to top](#)
+<br/>
