@@ -1,10 +1,8 @@
-<h2 id="ai-for-arresting-criminals">
-    ⚖️ AI for arresting criminals
-</h2>
+## ⚖️ AI for Arresting Criminals
 
-> ระบบการติดตามจับกุมคนร้ายด้วยเทคโนโลยีปัญญาประดิษฐ์ (Research and Development of Tracking Systems for Arresting Criminals Using Artificial Intelligence)
+> The development of tracking systems for arresting criminals using artificial intelligence (AI) aims to improve the efficiency and effectiveness of law enforcement in preventing and responding to crime.
 
-## Project structure
+### Project Structure
 
 ```plaintext
 📂 AI-for-arresting-criminals
@@ -13,78 +11,59 @@
 │  │  └─ 📄 image_classificaiton.ipynb        # Submitted Assignment
 ├─ 📂 Lecture                                 # Folder containing lecture notes
 │  ├─ 📄 slide.pdf                            # Lecture slide
-│  └─ 📄 mynote.pdf                           # My personal note
+│  └─ 📄 mynote.pdf                           # Personal notes
 └─ 📄 README.md                               # This file
 ```
 
-## Table of Contents
+### Table of Contents
 
-<ul>
-  <li>
-  <details>
-    <summary>Notes</summary>
-    <ul>
-      <li>
-       <a href="#problem-statement">Problem Statement</a>
-      </li>
-      <li><a href="#methodology">Methodology</a></li>
-      <li><a href="#conclusion">Conclusion</a></li>
-    </ul>
-  </details>
-  </li>
-  <li>
-   <a href="#assignment">
-    Assignment
-    </a>
-  </li>
-</ul>
+- [Notes](#notes)
+  - [Problem Statement](#problem-statement)
+  - [Methodology](#methodology)
+  - [Conclusion](#conclusion)
+- [Assignment](#assignment)
 
-## Notes
-[<img src="https://img.shields.io/badge/view%20in%20notion-grey?style=for-the-badge&logo=notion" />](https://xinnypie.notion.site/AI-for-arresting-criminals-44e133329d0d4a399a29733daed989cc?pvs=4) [<img src="https://img.shields.io/badge/view%20in%20pdf-grey?style=for-the-badge&logo=github" />](./lecture/file/mynote.pdf)
+### Notes
 
+[<img src="https://img.shields.io/badge/view%20in%20notion-grey?style=for-the-badge&logo=notion" />](https://xinnypie.notion.site/AI-for-arresting-criminals-44e133329d0d4a399a29733daed989cc?pvs=4)  
+[<img src="https://img.shields.io/badge/view%20in%20pdf-grey?style=for-the-badge&logo=github" />](./lecture/file/mynote.pdf)
 
 ### Problem Statement
 
-**Old Solutions**
+**Old Solutions:**
+- Heavy reliance on CCTV footage reviewed by security staff.
+- Over 15,000 cameras in southern provinces.
 
-- Reliance on CCTV footage reviewed by security staff.
-- Extensive network of over 15,000 cameras in the southern provinces.
+**Problems Identified:**
+- **Big Data Storage:** Managing and analyzing vast CCTV footage is resource-intensive.
+- **Privacy Concerns:** Collecting data on specific groups raises privacy issues.
+- **Potential for Misuse:** Databases of at-risk people and vehicles could be misused, leading to discriminatory practices.
+- **Limited Investigative Tools:** Relying on traditional methods like witness testimony and forensic evidence is time-consuming and inefficient.
 
-**Problems Identified**
+**Objectives for Improvement:**
+- **Enhanced Police Proficiency:** Train officers to use AI-powered tools on smartphones for crime analysis.
+- **Increased Public Confidence:** Implement AI-powered CCTV for transparent crime monitoring.
+- **Real-time Crime Prevention:** Develop AI systems to alert police to suspicious individuals or vehicles via mobile devices.
 
-- **Big data storage:** Managing and analyzing vast amounts of CCTV footage is resource-intensive.
-- **Chanthaburi Police Database:** Collecting and storing data on specific groups raises privacy concerns.
-- **Databases of at-risk people and vehicles:** Potential for misuse and discriminatory practices.
-- **Limited investigative tools:** Reliance on traditional methods like witness testimony and forensic evidence is time-consuming and may lack efficiency.
-
-**Objectives for Improvement**
-
-- **Enhanced police proficiency:** Train officers in using AI-powered tools for crime data analysis and investigation on smartphones.
-- **Increased public confidence:** Implement AI-powered CCTV systems for transparent crime monitoring and evidence recording.
-- **Real-time crime prevention:** Develop AI systems that alert police to suspicious individuals or vehicles through mobile devices connected to a central server.
-
-**Challenges to Address**
-
-- **System design:** Creating a robust and secure system for crime prevention using AI technology.
-- **Modern investigative knowledge:** Integrating AI tools into existing investigative practices while ensuring ethical and responsible data handling.
-- **Understanding criminal behavior:** Analyzing patterns and sequences of events to predict and prevent crime effectively.
+**Challenges to Address:**
+- **System Design:** Develop a robust and secure system for crime prevention using AI.
+- **Ethical Integration:** Integrate AI into investigative practices with careful attention to data handling and ethics.
+- **Criminal Behavior Analysis:** Understand and predict criminal behavior through data analysis.
 
 ### Methodology
 
-1. **Detection:** AI algorithms continuously analyze data from stations to identify suspicious activity or known criminals.
-2. **Tracking:** Once a target is detected, the system tracks its movements across different stations, creating a visual trail.
-3. **Recognition:** AI algorithms compare detected individuals or vehicles with data in the database to determine their identity.
-4. **Alerts:** If a match is found, an alert is sent to police officers with relevant information, such as location, direction of movement, and criminal history.
-5. **Response:** Officers can then use this information to apprehend suspects efficiently.
+1. **Detection:** AI algorithms continuously analyze data to detect suspicious activity or known criminals.
+2. **Tracking:** Once a target is detected, the system tracks its movements across different stations.
+3. **Recognition:** AI compares detected individuals or vehicles with data in the database to identify them.
+4. **Alerts:** If a match is found, an alert with relevant information (location, direction, criminal history) is sent to officers.
+5. **Response:** Officers can use this information to apprehend suspects efficiently.
 
 ### Conclusion
 
-- **Boosting police efficiency:** AI tools on smartphones will equip officers to analyze crime data effectively, streamlining investigations and response times.
-- **Enhancing crime prevention:** Intelligent CCTV systems powered by AI will provide real-time crime monitoring and evidence recording, fostering public trust in security measures.
-- **Proactive intervention:** AI algorithms will analyze CCTV footage and other data sources to detect suspicious activities and send instant alerts to police mobile devices, enabling rapid response to potential threats.
+- **Boosting Police Efficiency:** AI tools will help officers analyze crime data and streamline investigations.
+- **Enhancing Crime Prevention:** Intelligent CCTV systems will provide real-time monitoring and evidence recording, improving public trust in security.
+- **Proactive Intervention:** AI algorithms will detect suspicious activity and send instant alerts to police, enabling quick responses to potential threats.
 
 ### Assignment
 
-<a target="_blank" href="https://colab.research.google.com/github/xinnypie/pmb-u-ai/blob/master/AI-for-arresting-criminals/assignment/src/object_detection.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
+[<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>](https://colab.research.google.com/github/xinnypie/pmb-u-ai/blob/master/AI-for-arresting-criminals/assignment/src/object_detection.ipynb)
